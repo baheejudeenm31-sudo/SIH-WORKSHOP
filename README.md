@@ -79,28 +79,7 @@ The platform aims to reduce unnecessary intermediaries in the agricultural suppl
 8. Users can track order status through the platform.
 
 ### Basic Workflow
-
-Farmer Registration
-        |
-        v
-Upload Agricultural Products
-        |
-        v
-Store Product Information
-        |
-        v
-AI Demand Forecasting
-        |
-        v
-Consumer / Bulk Buyer Orders
-        |
-        v
-Logistics Coordination
-        |
-        v
-Product Delivery
-
----
+<img width="1079" height="1511" alt="image" src="https://github.com/user-attachments/assets/4ca827c7-0d52-4513-b167-b7ce132914e8" />
 
 ## 4. Feasibility and Viability
 
